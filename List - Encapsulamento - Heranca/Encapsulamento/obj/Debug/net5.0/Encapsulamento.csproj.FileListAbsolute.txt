@@ -1,0 +1,16 @@
+C:\Users\jorbe\OneDrive\Documentos\Exercicios de C#\Program\Encapsulamento\obj\Debug\net5.0\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\jorbe\OneDrive\Documentos\Exercicios de C#\Program\Encapsulamento\obj\Debug\net5.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorbe\OneDrive\Documentos\Exercicios de C#\Program\Encapsulamento\obj\Debug\net5.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\jorbe\OneDrive\Documentos\Exercicios de C#\Program\Encapsulamento\obj\Debug\net5.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\jorbe\OneDrive\Documentos\Exercicios de C#\Program\Encapsulamento\obj\Debug\net5.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\jorbe\OneDrive\Documentos\Exercicios de C#\Program\Encapsulamento\bin\Debug\net5.0\Encapsulamento.exe
+C:\Users\jorbe\OneDrive\Documentos\Exercicios de C#\Program\Encapsulamento\bin\Debug\net5.0\Encapsulamento.deps.json
+C:\Users\jorbe\OneDrive\Documentos\Exercicios de C#\Program\Encapsulamento\bin\Debug\net5.0\Encapsulamento.runtimeconfig.json
+C:\Users\jorbe\OneDrive\Documentos\Exercicios de C#\Program\Encapsulamento\bin\Debug\net5.0\Encapsulamento.runtimeconfig.dev.json
+C:\Users\jorbe\OneDrive\Documentos\Exercicios de C#\Program\Encapsulamento\bin\Debug\net5.0\Encapsulamento.dll
+C:\Users\jorbe\OneDrive\Documentos\Exercicios de C#\Program\Encapsulamento\bin\Debug\net5.0\ref\Encapsulamento.dll
+C:\Users\jorbe\OneDrive\Documentos\Exercicios de C#\Program\Encapsulamento\bin\Debug\net5.0\Encapsulamento.pdb
+C:\Users\jorbe\OneDrive\Documentos\Exercicios de C#\Program\Encapsulamento\obj\Debug\net5.0\Encapsulamento.dll
+C:\Users\jorbe\OneDrive\Documentos\Exercicios de C#\Program\Encapsulamento\obj\Debug\net5.0\ref\Encapsulamento.dll
+C:\Users\jorbe\OneDrive\Documentos\Exercicios de C#\Program\Encapsulamento\obj\Debug\net5.0\Encapsulamento.pdb
+C:\Users\jorbe\OneDrive\Documentos\Exercicios de C#\Program\Encapsulamento\obj\Debug\net5.0\Encapsulamento.genruntimeconfig.cache
